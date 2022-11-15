@@ -1,0 +1,382 @@
+{
+"backpack" : [{
+  "alias": "backpack",
+  "categories": [
+    {
+      "alias": "school bags",
+      "title": "School Bags"
+    },
+    {
+      "alias": "backpack",
+      "title": "Backpack"
+    }
+  ],
+  "rid": [
+    {
+      "alias": "Backpack",
+      "categories": [
+        {
+          "alias": "backpack",
+          "title": "Backpack"
+        },
+        {
+          "alias": "school bag",
+          "title": "school bag"
+        }
+      ],
+      "display_brand": "Wonder",
+      "image_url": "https://i5.walmartimages.com/asr/596b9069-20ea-42f7-a5da-e064a5eade4a.e8292940240098d94556d59c94929501.png?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "is_claimed": true,
+      "stock": 10,
+      "is_available": false,
+      "description": "Wonder Nation Girls' Flower Unicorn Backpack",
+      "Favorite": "Yes",
+      "price": "$18.98",
+      "rating": 2.0,
+      "review_count": 27,
+      "2day_of_shipping": true,  
+      "transactions": {
+         "delivery": true,
+         "pickup_at_store": true
+       }
+    },
+    {
+      "alias": "Backpack",
+      "categories": [
+        {
+          "alias": "backpack",
+          "title": "Backpack"
+        },
+        {
+          "alias": "school bag",
+          "title": "school bag"
+        }
+      ],
+      "display_brand": "Reebok",
+      "image_url": "https://i5.walmartimages.com/asr/af7e43f7-f60c-44e0-b8d2-2a3baebba77f.f1386ce24932590515054e7563171d7d.jpeg",
+      "is_claimed": true,
+      "stock": 10,
+      "is_available": false,
+      "description": "Reebok Unisex Sienna Backpack - Camouflage",
+      "Favorite": "Yes",
+      "price": "$14.00",
+      "rating": 3.8,
+      "review_count": 17,
+      "2day_of_shipping": true,  
+      "transactions": {
+         "delivery": true,
+         "pickup_at_store": true
+       }
+    },
+    {
+      "alias": "Backpack",
+      "categories": [
+        {
+          "alias": "backpack",
+          "title": "Backpack"
+        },
+        {
+          "alias": "school bag",
+          "title": "school bag"
+        }
+      ],
+      "display_brand": "Eastport",
+      "image_url": "https://i5.walmartimages.com/asr/b0fd815e-ec9f-455e-bb48-db30aae2e65c.29dd2359c1b779e231bb340ee076dc6e.jpeg",
+      "is_claimed": true,
+      "stock": 10,
+      "is_available": false,
+      "description": "Eastsport Unisex Summit Bungee Backpack, Light Grey",
+      "Favorite": "Yes",
+      "price": "$21.00",
+      "rating": 4.0,
+      "review_count": 28,
+      "2day_of_shipping": true,  
+      "transactions": {
+         "delivery": true,
+         "pickup_at_store": true
+       }
+    }
+  ],
+  "display_brand": "Madden NYC",
+  "id": "1",
+  "image_url": "https://i5.walmartimages.com/asr/07adbfa8-8f5e-450b-8eff-09d860feb403.494fa0f5d802972840caff9b0e813ac4.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+  "is_claimed": true,
+  "stock": 10,
+  "is_available": false,
+  "description": "Madden NYC Women’s Modular Zipper Backpack Pink Smiley",
+  "Favorite": "No",
+  "photos": [
+"https://i5.walmartimages.com/asr/2826bae4-da46-4837-a049-2a87643a781d.6c417b937c8640c2f33e2876cdf37340.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "https://i5.walmartimages.com/asr/33daea33-c001-492c-bb55-10d342fb0d1c.a4258f1a365da1163018bfe7a10b6494.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",  "https://i5.walmartimages.com/asr/8d266122-6c92-4b5c-ba3f-9fd4457c0ba8.c5a0fcb5af47d6ba89277a31258bb9a0.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+  ],
+  "price": "$34.00",
+  "rating": 4.5,
+  "review_count": 1564,
+  "2day_of_shipping": true,  
+  "transactions": {
+     "delivery": true,
+     "pickup_at_store": true
+   }
+},
+{
+  "alias": "backpack",
+  "categories": [
+    {
+      "alias": "school bags",
+      "title": "School Bags"
+    },
+    {
+      "alias": "backpack",
+      "title": "Backpack"
+    }
+  ],
+  "display_brand": "Eastsport",
+  "id": "3",
+  "image_url": "https://i5.walmartimages.com/asr/e7a20845-4b77-451c-a273-2afca64d5e2c.4c3f89dff54a13146c45125fde918473.jpeg",
+  "is_claimed": true,
+  "stock": 10,
+  "is_available": false,
+  "description": "Eastsport Unisex Adult Sport Voltage Backpack Black",
+  "Favorite": "No",
+  "photos": [
+"https://i5.walmartimages.com/asr/84b19ccd-174c-4761-94a3-1cbbd2bfe5b7.d8b23661ef801298aa97e848bbebac8a.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "https://i5.walmartimages.com/asr/71000fc4-3383-4fba-be05-d50655cc5ba4.90d0fb8969b7c5db2ba46439509d4497.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",  "https://i5.walmartimages.com/asr/da94af6b-105b-45da-940f-3610a8b906b2.ea89dd26353cd913a352f913bc31f95c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+  ],
+  "price": "$19.96",
+  "rating": 4.8,
+  "review_count": 3264,
+  "2day_of_shipping": true,  
+  "transactions": {
+     "delivery": true,
+     "pickup_at_store": true
+   }
+},
+{
+  "alias": "backpack",
+  "categories": [
+    {
+      "alias": "school bags",
+      "title": "School Bags"
+    },
+    {
+      "alias": "backpack",
+      "title": "Backpack"
+    }
+  ],
+  "display_brand": "Reebok",
+  "id": "2",
+  "image_url": "https://i5.walmartimages.com/asr/d43a941c-d7b7-48fc-b395-bbd9335717fb.657c7f459e3d17899bd1b5e8da2238f4.jpeg",
+  "is_claimed": true,
+  "stock": 10,
+  "is_available": false,
+  "description": "Reebok Unisex Sienna Backpack - Black Combo",
+  "Favorite": "No",
+  "photos": [
+"https://i5.walmartimages.com/asr/344f6fc2-6ac9-40e9-a16b-df72728ce91b.51403393dea794db9f3ded9fe2c38a1a.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "https://i5.walmartimages.com/asr/ffd30150-170f-489e-8d06-f5063e743157.f5fc967802f1ef2a80c9880bbc128dd3.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",  "https://i5.walmartimages.com/asr/238607c8-7726-4774-b357-40749def7a3c.1ebf28297f47834a4b83fccf600455f9.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+  ],
+  "price": "$18.99",
+  "rating": 4.3,
+  "review_count": 1264,
+  "2day_of_shipping": true,  
+  "transactions": {
+     "delivery": true,
+     "pickup_at_store": true
+   }
+}],
+
+"laptop" : [
+  {
+    "alias": "Laptop",
+    "categories": [
+      {
+        "alias": "Laptop",
+        "title": "Laptop"
+      },
+      {
+        "alias": "electronics",
+        "title": "Electronics"
+      }
+    ],
+    "display_brand": "HP",
+    "id": "4",
+    "image_url": "https://i5.walmartimages.com/asr/ef300fba-34ec-44cb-80b5-57ac874a19f9.cc50e0add7e30cabc6e6dca323d95099.jpeg",
+    "is_claimed": true,
+    "stock": 10,
+    "is_available": false,
+    "description": "HP 14 Laptop, Intel Core i5-1135G7, 8GB RAM, 256GB SSD, Natural Silver, Windows 11 Home, 14-dq2078wm",
+    "Favorite": "Yes",
+    "photos": [
+  "https://i5.walmartimages.com/asr/13ab4e34-805c-424a-93cd-67fc099fbdca.22fc0745c2002f487c976e5cf7a39573.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "https://i5.walmartimages.com/asr/26cb49e2-2691-4073-a09d-99a1a8f05355.c4dc3d48da415df7b0e56b9f805e6c94.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",  "https://i5.walmartimages.com/asr/66d82d67-a149-463f-873a-a76aa1ed4aa0.d139061471d6865de930b73101f4ee6d.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+    ],
+    "price": "$429.90",
+    "rating": 3.8,
+    "review_count": 2264,
+    "2day_of_shipping": true,  
+    "transactions": {
+       "delivery": true,
+       "pickup_at_store": true
+     }
+  },
+  {
+    "alias": "Laptop",
+    "categories": [
+      {
+        "alias": "Laptop",
+        "title": "Laptop"
+      },
+      {
+        "alias": "electronics",
+        "title": "Electronics"
+      }
+    ],
+    "display_brand": "Apple",
+    "id": "5",
+    "image_url": "https://i5.walmartimages.com/asr/0556ad3e-821d-4a86-b607-af141e3447f8.2c4e23d05f60e3ec013480a2858f5c26.jpeg",
+    "is_claimed": true,
+    "stock": 10,
+    "is_available": false,
+    "description": "Apple MacBook Air Laptop 11.6-inch Retina Display 4GB RAM - 128GB SSD Bundle: Wireless Headset, Generic Case, Bluetooth Mouse, Priority Shipping & 1 Year Warranty (Refurbished)",
+    "Favorite": "Yes",
+    "photos": [
+  "https://i5.walmartimages.com/asr/03bb70f9-1c2b-4cb2-88e2-0d2f3d38b239.19f7d78554f725f42d9cfeb60890d903.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "https://i5.walmartimages.com/asr/bb408f83-da04-48ab-92d8-233e6ab05e0f.6d71b38a6c9ce984099a0e34d6a788c2.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",  "https://i5.walmartimages.com/asr/0e68b578-819f-47de-87b7-cd4d0be1b021.2126efc0d9c08c469bd92a5e38935344.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+   ],
+    "price": "$229.90",
+    "rating": 4.8,
+    "review_count": 5464,
+    "2day_of_shipping": true,  
+    "transactions": {
+       "delivery": true,
+       "pickup_at_store": true
+     }
+  },
+  {
+    "alias": "Laptop",
+    "categories": [
+      {
+        "alias": "Laptop",
+        "title": "Laptop"
+      },
+      {
+        "alias": "electronics",
+        "title": "Electronics"
+      }
+    ],
+    "display_brand": "Lenovo",
+    "id": "6",
+    "image_url": "https://i5.walmartimages.com/asr/0d25c379-72e6-4597-83a7-fbe59e73ee80.f91e890a71f8a1fdd6311b8b54c682ff.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "is_claimed": true,
+    "stock": 10,
+    "is_available": false,
+    "description": "Lenovo CB 3 14 with Headset Bundle, Celeron N4020, 4G RAM, 64G eMMC, Chrome OS, Gray, 82C1002AUS",
+    "Favorite": "Yes",
+    "photos": [
+  "https://i5.walmartimages.com/asr/0d25c379-72e6-4597-83a7-fbe59e73ee80.f91e890a71f8a1fdd6311b8b54c682ff.jpeg", "https://i5.walmartimages.com/asr/a663f65b-84fc-46e0-a6f7-925c796016dc.8a28ee516b568bb97bb7137409f2d6e3.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",  "https://i5.walmartimages.com/asr/a663f65b-84fc-46e0-a6f7-925c796016dc.8a28ee516b568bb97bb7137409f2d6e3.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+   ],
+    "price": "$129.00",
+    "rating": 4.4,
+    "review_count": 3464,
+    "2day_of_shipping": true,  
+    "transactions": {
+       "delivery": true,
+       "pickup_at_store": true
+     }
+  }
+],
+
+"watch" : [
+  {
+    "alias": "Watch",
+    "categories": [
+      {
+        "alias": "watch",
+        "title": "Watch"
+      },
+      {
+        "alias": "timepiece",
+        "title": "timepiece"
+      }
+    ],
+    "display_brand": "Casio G-Shock",
+    "id": "7",
+    "image_url": "https://i5.walmartimages.com/asr/768d9973-412e-4bc0-93f5-aa113e121a0b_1.c60d65355ac25aeed440321e046f28cd.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "is_claimed": true,
+    "stock": 10,
+    "is_available": false,
+    "description": "Casio GA100-1A1 G-Shock X-Large Black Ana / Digi Dial Resin Strap Men Watch NEW",
+    "Favorite": "Yes",
+    "photos": [
+  "https://i5.walmartimages.com/asr/e5545106-0be7-46c2-bdd9-1d1cecb32b11_1.887c1caf671f4f189ce50a382ebba93a.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "https://i5.walmartimages.com/asr/1eb84202-51dd-4b85-9d3f-826966469141_1.27731f5dc836a9844b550d33a166e0fe.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+   ],
+    "price": "$129.00",
+    "rating": 4.4,
+    "review_count": 3464,
+    "2day_of_shipping": true,  
+    "transactions": {
+       "delivery": true,
+       "pickup_at_store": true
+     }
+  },
+  {
+    "alias": "Watch",
+    "categories": [
+      {
+        "alias": "watch",
+        "title": "Watch"
+      },
+      {
+        "alias": "timepiece",
+        "title": "timepiece"
+      }
+    ],
+    "display_brand": "Fossil",
+    "id": "8",
+    "image_url": "https://i5.walmartimages.com/asr/9f00c226-3205-48ab-92a8-7e43b99ce3a8_1.48b560f467af2d4c0d1b4400fd9b475b.jpeg",
+    "is_claimed": true,
+    "stock": 10,
+    "is_available": false,
+    "description": "Fossil Men's Nate Chronograph, Black-Tone Stainless Steel Watch, JR1354",
+    "Favorite": "Yes",
+    "photos": [
+  "https://i5.walmartimages.com/asr/2c637e8d-2104-42f1-98ec-738cdebf59dc_1.12bad5de049a4a95aa3c136a9d75db49.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "https://i5.walmartimages.com/asr/dc224eb2-2cc0-4bf1-a334-ffaa9993f574_1.3bf6eb2b23c357ad291cc74cae0fab15.jpeg"
+   ],
+    "price": "$97.74",
+    "rating": 4.3,
+    "review_count": 670,
+    "2day_of_shipping": true,  
+    "transactions": {
+       "delivery": true,
+       "pickup_at_store": true
+     }
+  },
+  {
+    "alias": "Watch",
+    "categories": [
+      {
+        "alias": "watch",
+        "title": "Watch"
+      },
+      {
+        "alias": "timepiece",
+        "title": "timepiece"
+      }
+    ],
+    "display_brand": "Timex",
+    "id": "9",
+    "image_url": "https://i5.walmartimages.com/asr/596b9069-20ea-42f7-a5da-e064a5eade4a.e8292940240098d94556d59c94929501.png?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "is_claimed": true,
+    "stock": 10,
+    "is_available": false,
+    "description": "Timex Men's Easy Reader 35mm Day-Date Watch – Silver-Tone Case White Dial with Silver-Tone Expansion Band",
+    "Favorite": "Yes",
+    "photos": [
+  "https://i5.walmartimages.com/asr/67bca5b3-43f3-4742-aeb5-33f36c255d9b_1.0500aa705c49dfeb290d871a542442fb.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF", "https://i5.walmartimages.com/asr/33f4f7f1-3a35-4dc5-b4a3-927b8a7782bf_1.770d95089f32185549599d217d249611.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+   ],
+    "price": "$37.74",
+    "rating": 4.2,
+    "review_count": 277,
+    "2day_of_shipping": true,  
+    "transactions": {
+       "delivery": true,
+       "pickup_at_store": true
+     }
+  }
+]
+}
